@@ -5,7 +5,7 @@ Yonsei univ.
 smart system lab.
 
 contact :   supkoon@yonsei.ac.kr  
-https://supkoon.tistory.com/
+blog : https://supkoon.tistory.com/
 
 <!---
 supkoon/supkoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
