@@ -1,10 +1,7 @@
 추천시스템과 자연어처리를 공부합니다.
 
-Yonsei univ.
 
-smart system lab.
-
-contact :   supkoon@yonsei.ac.kr  
+contact :   supkoon@gmail.com
 blog : https://supkoon.tistory.com/
 
 <!---
