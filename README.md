@@ -4,7 +4,7 @@
 contact :   supkoon@gmail.com  
 blog : https://supkoon.tistory.com/  
 
-yonsei univ. smart system lab
+
 
 <!---
 supkoon/supkoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
