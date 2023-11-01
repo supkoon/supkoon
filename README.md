@@ -1,8 +1,8 @@
-추천시스템과 자연어처리를 공부합니다.
 
 
-contact :   supkoon@gmail.com  
+contact : supkoon@gmail.com  
 blog : https://supkoon.tistory.com/  
+smart system lab. yonsei univ.
 
 
 
