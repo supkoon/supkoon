@@ -2,7 +2,7 @@
 
 contact : supkoon@gmail.com  
 blog : https://supkoon.tistory.com/  
-smart system lab. yonsei univ.
+smart systems lab. yonsei univ.
 
 
 
